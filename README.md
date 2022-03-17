@@ -123,7 +123,7 @@ dingBoot-windows.bat  # windows版本
 ### 下载本项目至本地
 
 ```shell
-git clone https://github.com/open-dingtalk/h5app-user-repair-demo.git
+git clone https://github.com/open-dingtalk/h5app-equipment-terminal-dingtalk-repair-demo.git
 ```
 
 ### 获取相应参数
