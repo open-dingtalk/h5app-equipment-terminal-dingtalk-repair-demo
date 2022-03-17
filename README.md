@@ -164,10 +164,14 @@ npm run build
 
 ### 页面展示
 
-启动页面 ![](https://img.alicdn.com/imgextra/i4/O1CN01fpJaoh1h3GXUQILvf_!!6000000004221-2-tps-800-463.png)
-创建工单 ![](https://img.alicdn.com/imgextra/i3/O1CN01oLzIOO1wyG3ZcG889_!!6000000006376-2-tps-800-461.png)
-查看设备 ![](https://img.alicdn.com/imgextra/i3/O1CN01jUbBiA1iV2ATt1Ryk_!!6000000004417-2-tps-800-459.png)
-工单通知 ![](https://img.alicdn.com/imgextra/i1/O1CN01yCRzZJ1EiNEG63Jiq_!!6000000000385-2-tps-429-133.png)
+启动页面 
+![](https://img.alicdn.com/imgextra/i4/O1CN01fpJaoh1h3GXUQILvf_!!6000000004221-2-tps-800-463.png)
+创建工单 
+![](https://img.alicdn.com/imgextra/i3/O1CN01oLzIOO1wyG3ZcG889_!!6000000006376-2-tps-800-461.png)
+查看设备 
+![](https://img.alicdn.com/imgextra/i3/O1CN01jUbBiA1iV2ATt1Ryk_!!6000000004417-2-tps-800-459.png)
+工单通知 
+![](https://img.alicdn.com/imgextra/i1/O1CN01yCRzZJ1EiNEG63Jiq_!!6000000000385-2-tps-429-133.png)
 
 ### **参考文档**
 
