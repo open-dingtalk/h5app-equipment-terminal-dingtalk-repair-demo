@@ -1,0 +1,10 @@
+server:
+  port: 8081
+  tomcat:
+    uri-encoding: UTF-8
+  forward-headers-strategy: FRAMEWORK
+app:
+  app_key: dingfsmxe3tw84dkrlpn
+  app_secret: deNlF5xOeTN0bcVsYWvJrOV0YA_tbJfITQWb4dX4LcH_SQwhN5-ssawZ4QWvp4W-
+  corp_id: ding9f50b15bccd16741
+  agent_id: 1355272313

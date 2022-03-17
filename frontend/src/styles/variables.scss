@@ -1,0 +1,57 @@
+// base color
+$base-color-default:  #098cfc;
+$base-color-blue: $base-color-default;
+$base-color-green: #13ce66;
+$base-color-white: #fff;
+$base-color-black: #000;
+$base-color-yellow: #ffba00;
+$base-color-orange: #ff6700;
+$base-color-red: #ff4d4f;
+$base-color-deRed:#cb0425;
+$base-color-gray: rgba(0, 0, 0, 0.65);
+
+// 侧边栏样式配置
+// 普通的字体颜色
+$menuText: #333;
+// 选中的字体颜色
+$menuActiveText:#098cfc;
+// 子菜单栏目的字体颜色
+$subMenuActiveText: #098cfc; // https://github.com/ElemeFE/element/issues/12951
+// 背景色
+$menuBg:#fff;
+// 无子级菜单划上的颜色
+$menuHover:#e6f3ff;
+// 有子级菜单划上的颜色
+$parentMenuHover: transparent;
+// 子级菜单颜色
+$subMenuBg:#fff;
+// 子级菜单划上颜色
+$subMenuHover:#e6f3ff;
+// 子级菜单选中颜色
+$subMenuActive:#e6f3ff;
+// 侧边栏宽度
+$sideBarWidth: 210px;
+
+
+$base-border-radius: 2px;
+$base-border-color: #dcdfe6;
+$base-color-white: #fff;
+//默认paddiing
+$base-padding: 20px;
+//顶部多标签页tabs-bar的高度
+$base-tabs-bar-height: 38px;
+//顶部多标签页tabs-bar中每一个item的高度
+$base-tag-item-height: 35px;
+
+// the :export directive is the magic sauce for webpack
+// https://www.bluematador.com/blog/how-to-share-variables-between-js-and-sass
+:export {
+  menuText: $menuText;
+  menuActiveText: $menuActiveText;
+  subMenuActiveText: $subMenuActiveText;
+  menuBg: $menuBg;
+  menuHover: $menuHover;
+  subMenuBg: $subMenuBg;
+  subMenuHover: $subMenuHover;
+  sideBarWidth: $sideBarWidth;
+}

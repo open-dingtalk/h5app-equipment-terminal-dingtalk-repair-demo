@@ -1,0 +1,64 @@
+.mainPanel {
+  background: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  .searchPanel {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    border-bottom: 1px solid #e5e5e5;
+  }
+  .opearBtns {
+    padding: 10px 0;
+  }
+  .tablePanel {
+    .tableGrow {
+      .el-table__fixed-header-wrapper,.el-table__header-wrapper {
+        .el-table__header {
+          thead{
+            tr {
+              background-color: #eceff6;
+              th {
+                background-color: #eceff6;
+              }
+            }
+          }
+        }
+      }
+      .el-table__body-wrapper {
+        border: solid 1px #eeeeee;
+        border-top: none;
+      }
+    }
+  }
+  .pagePanel {
+    padding-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+      .el-pagination {
+        .el-pager {
+          .active {
+            background-color:#098cfc !important;
+          }
+        }
+      }
+  }
+}
+.borderDialog {
+  .el-dialog__header {
+    border-bottom: 1px solid  #dcdcdc;
+    .el-dialog__headerbtn {
+      .el-icon-close {
+        font-size: 20px;
+        color:  #333333;;
+      }
+    }
+  }
+  .el-dialog__body {
+    padding: 20px;
+  }
+  .el-dialog__footer {
+    border-top: 1px solid  #dcdcdc;
+  }
+}
